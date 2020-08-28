@@ -5,14 +5,14 @@
 
 ## Contents
 
-- [Service Providers](#service-providers)
+- [Service Providers](#internet-telephony-service-providers)
 - [SIP Clients](#sip-clients)
 - [SIP Servers](#pbx-servers)
 - [Monitoring and Capturing](#monitoring-and-capturing)
 - [Auditing](#auditing)
 - [Containers](#containers)
 
-## Service Providers
+## Internet Telephony Service Providers
 
 - [Twilio](https://www.twilio.com/)
 - [Signalwire](https://signalwire.com/)
