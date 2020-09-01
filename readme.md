@@ -26,7 +26,7 @@
 - [linphone-android](https://github.com/BelledonneCommunications/linphone-android) Linphone.org mirror for linphone-android
 - [linphone-iphone](https://github.com/BelledonneCommunications/linphone-iphone) Mirror of linphone-iphone
 
-## SIP Servers
+## PBX Servers
 
 - [Asterisk](https://github.com/asterisk/asterisk) Official Asterisk PBX repository
 - [FreeSWITCH](https://github.com/signalwire/freeswitch) Software Defined Telecom Stack
