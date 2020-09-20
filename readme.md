@@ -11,6 +11,7 @@
 - [Monitoring and Capturing](#monitoring-and-capturing)
 - [Auditing](#auditing)
 - [Containers](#containers)
+- [Reading](#reading)
 
 ## Internet Telephony Service Providers
 
@@ -51,6 +52,14 @@
 - [Asterisk Alpine](https://github.com/andrius/asterisk) Asterisk PBX in Docker on Alpine Linux.
 - [docker-freepbx](https://github.com/tiredofit/docker-freepbx)  Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [freeswitch-container](https://github.com/BetterVoice/freeswitch-container) Dockerized FreeSWITCH instance
+
+## Reading
+
+- [Asterisk: The Definitive Guide, 5th Edition](https://www.oreilly.com/library/view/asterisk-the-definitive/9781492031598/?)
+- [Practical Asterisk 1.4 and 1.6: From Beginner to Expert](http://the-asterisk-book.com/1.6/)
+- [Hacking VoIP: Protocols, Attacks, and Countermeasures](https://www.goodreads.com/book/show/2453450.Hacking_VoIP)
+- [RTP: Audio and Video for the Internet](https://www.goodreads.com/book/show/1807875.RTP)
+
 
 ## Contribute
 
