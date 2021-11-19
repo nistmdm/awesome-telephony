@@ -26,6 +26,7 @@
 - [baresip](https://github.com/baresip/baresip) modular SIP User-Agent with audio and video support
 - [linphone-android](https://github.com/BelledonneCommunications/linphone-android) Linphone.org mirror for linphone-android
 - [linphone-iphone](https://github.com/BelledonneCommunications/linphone-iphone) Mirror of linphone-iphone
+- [Browser Phone](https://github.com/InnovateAsterisk/Browser-Phone) A fully featured browser based WebRTC SIP phone for Asterisk
 
 ## PBX Servers
 
