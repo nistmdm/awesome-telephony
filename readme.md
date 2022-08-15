@@ -57,7 +57,6 @@
 ## Reading
 
 - [Asterisk: The Definitive Guide, 5th Edition](https://www.oreilly.com/library/view/asterisk-the-definitive/9781492031598/?)
-- [Practical Asterisk 1.4 and 1.6: From Beginner to Expert](http://the-asterisk-book.com/1.6/)
 - [Hacking VoIP: Protocols, Attacks, and Countermeasures](https://www.goodreads.com/book/show/2453450.Hacking_VoIP)
 - [RTP: Audio and Video for the Internet](https://www.goodreads.com/book/show/1807875.RTP)
 
