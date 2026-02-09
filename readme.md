@@ -18,6 +18,7 @@
 - [Twilio](https://www.twilio.com/)
 - [Signalwire](https://signalwire.com/)
 - [Voxbone](https://www.voxbone.com/)
+- [ClawdTalk](https://github.com/team-telnyx/clawdtalk-client) - Adds voice calling to AI agents via Telnyx telephony. Supports inbound/outbound calls with deep tool integration.
 
 ## SIP Clients
 
