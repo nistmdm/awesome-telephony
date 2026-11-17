@@ -11,6 +11,7 @@
 - [Monitoring and Capturing](#monitoring-and-capturing)
 - [Auditing](#auditing)
 - [Containers](#containers)
+- [Tools and Modules](#tools-and-modules)
 - [Reading](#reading)
 
 ## Internet Telephony Service Providers
@@ -53,6 +54,11 @@
 - [Asterisk Alpine](https://github.com/andrius/asterisk) Asterisk PBX in Docker on Alpine Linux.
 - [docker-freepbx](https://github.com/tiredofit/docker-freepbx)  Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [freeswitch-container](https://github.com/BetterVoice/freeswitch-container) Dockerized FreeSWITCH instance
+
+## Tools and Modules
+
+- [IVR Studio](https://miavazzo.github.io/ivrstudio-website/) FreePBX module to generate professional IVR audio with neural Text-to-Speech (Edge-TTS /
+ElevenLabs) and YouTube background music. Exports to .ulaw (Asterisk) and .wav (FreeSWITCH). Free tier available.
 
 ## Reading
 
