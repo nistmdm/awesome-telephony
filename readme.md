@@ -20,6 +20,7 @@
 - [Signalwire](https://signalwire.com/)
 - [Voxbone](https://www.voxbone.com/)
 - [Vobiz](https://www.vobiz.ai/)
+- [MeiSIM USA](https://www.meisimusa.com/api-for-ai-agents.html)
 
 ## SIP Clients
 
