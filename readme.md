@@ -60,6 +60,7 @@
 
 - [IVR Studio](https://miavazzo.github.io/ivrstudio-website/) FreePBX module to generate professional IVR audio with neural Text-to-Speech (Edge-TTS /
 ElevenLabs) and YouTube background music. Exports to .ulaw (Asterisk) and .wav (FreeSWITCH). Free tier available.
+- [CallForMe](https://callforme.tel/?ref=awesome-telephony) Remote MCP server and REST API that lets an AI agent place outbound calls to businesses in the US and Canada: works phone menus, waits on hold, takes mid-call questions and returns a transcript. Pay per call
 
 ## Reading
 
